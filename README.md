@@ -4,7 +4,8 @@ I'm an engineering student at Cochin University of Science and Technology.
 
 - 🌱 Exploring life at full throttle. 
 - 💬 Let's talk about computers all day!
-- 📫 How to reach me: [matrix] : <a href="https://matrix.to/#/@aswinpradeepc:matrix.org" target="_blank">@aswinpradeepc:matrix.org</a> or on LinkedIn: <a href="https://linkedin.com/in/aswinpradeepc" target="_blank">Aswin Pradeep</a>
+- 📫 How to reach me: [matrix] : <a href="https://matrix.to/#/@aswinpradeepc:matrix.org" target="_blank">@aswinpradeepc:matrix.org</a> or on LinkedIn: <a href="https://linkedin.com/in/aswinpradeepc" target="_blank">Aswin Pradeep</a><br><br>
+<b>Check out my [portfolio](https://aswin.radr.in)!</b> <br>
 
 ![Profile view counter](https://komarev.com/ghpvc/?username=aswinpradeepc)
 
@@ -22,6 +23,4 @@ I'm an engineering student at Cochin University of Science and Technology.
 | **Fidget a Ton**                                                            | Design files for custom swag made for Make-A-Ton 6.0, featuring 3D printed and laser-cut clicky keyboards. | ![FreeCAD](https://img.shields.io/badge/-FreeCAD-005CA9?style=flat&logo=freecad&logoColor=white) | [GitHub](https://github.com/aswinpradeepc/fidget-a-ton)                |
 
 ---
-
-Check out more on my [portfolio](https://aswin.radr.in)!  
 
