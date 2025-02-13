@@ -1,13 +1,26 @@
-# Hi, I'm Aswin 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Hi,+I'm+Aswin+👋;Backend+%7C+Cloud+%7C+ML;Exploring+life+at+full+throttle!">
+</h1>
 
-I'm an engineering student at Cochin University of Science and Technology.
+---
 
-- 🌱 Exploring life at full throttle. 
-- 💬 Let's talk about computers all day!
-- 📫 How to reach me: [matrix] : <a href="https://matrix.to/#/@aswinpradeepc:matrix.org" target="_blank">@aswinpradeepc:matrix.org</a> or on LinkedIn: <a href="https://linkedin.com/in/aswinpradeepc" target="_blank">Aswin Pradeep</a><br><br>
-<b>Check out my [portfolio](https://aswin.radr.in)!</b> <br>
+## **About Me**
+- 🔭 **Currently working on:** Cloud, Backend, and AI-driven solutions  
+- 🌱 **Learning:** Advanced **Docker CI/CD**, **Vector DBs**, and **GitHub Actions**  
+- ⚡ **Fun Fact:** I love breaking things just to fix them again!
+- <b>Check out my [portfolio](https://aswin.radr.in)!</b> <br>
 
 ![Profile view counter](https://komarev.com/ghpvc/?username=aswinpradeepc)
+
+---
+
+## 🛠 **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,aws,nginx,react,flutter,git,github,linux" />
+</p>
+
+---
+
 
 ## 🛠️ Projects  
 
@@ -21,3 +34,7 @@ I'm an engineering student at Cochin University of Science and Technology.
 | [**Take Rest**](https://github.com/aswinpradeepc/take-rest)                 | A Python-based eye monitoring system that tracks blinks and reminds users to take breaks, preventing CVS. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
 | [**Edurider Frontend (Ongoing)**](https://github.com/aswinpradeepc/edurider) | A Flutter app with Mapbox integrations for real-time notifications and alerts for parents.               | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Mapbox](https://img.shields.io/badge/-Mapbox-000000?style=flat&logo=mapbox&logoColor=white) |
 | [**Strabismus Detector**](https://github.com/aswinpradeepc/strabismus-detector) | An end-to-end ML project for strabismus detection and classification using TensorFlow, FastAPI, and React. | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) |
+
+---
+
+🔥 **"Every problem is an opportunity for innovation."**  
