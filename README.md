@@ -5,7 +5,7 @@
 ---
 
 ## **About Me**
-- 🔭 **Currently working on:** Cloud, Backend, and AI-driven solutions  
+- 🔭 **Currently working on:** Cloud, Backend, and AI projects!  
 - 🌱 **Learning:** Advanced **Docker CI/CD**, **Vector DBs**, and **GitHub Actions**  
 - <b>Check out my [portfolio](https://aswin.radr.in)!</b> or [devb.io](https://devb.io/aswinpradeepc) <br>
 
