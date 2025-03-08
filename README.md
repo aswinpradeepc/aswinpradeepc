@@ -33,6 +33,6 @@
 ---
 
 ## **Let's Build Something**
-Have an interesting project in mind? I'm always open to collaboration.
+Have an interesting project in mind? I'm always open to collaboration 🧑‍💻
 
 📫 **Reach out:** [Email](mailto:aswinpradeepc@gmail.com) | [LinkedIn](https://linkedin.com/in/aswinpradeepc)
