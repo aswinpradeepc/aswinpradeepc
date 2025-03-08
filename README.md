@@ -11,13 +11,15 @@
 
 ![Profile view counter](https://komarev.com/ghpvc/?username=aswinpradeepc)
 
----
+--- 
+
 
 ## 🛠 **Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,aws,nginx,react,flutter,git,github,linux" />
 </p>
-
+  <p>...and always learning more</p>
+  
 ---
 
 ## **Featured Projects**  
