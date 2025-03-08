@@ -7,7 +7,7 @@
 ## **About Me**
 - 🔭 **Currently working on:** Cloud, Backend, and AI projects!  
 - 🌱 **Learning:** Advanced **Docker CI/CD**, **Vector DBs**, and **GitHub Actions**  
-- <b>Check out my [portfolio](https://aswinpc.tech)!</b> or [devb.io](https://devb.io/aswinpradeepc) <br>
+- Check out [aswinpc.tech](https://aswinpc.tech) or [devb.io](https://devb.io/aswinpradeepc) <br>
 
 ![Profile view counter](https://komarev.com/ghpvc/?username=aswinpradeepc)
 
