@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,aws,nginx,react,flutter,git,github,linux" />
 </p>
-  <p>...and always learning more</p>
+  <p>...and curiously tinkering with more</p>
   
 ---
 
