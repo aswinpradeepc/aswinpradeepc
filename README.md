@@ -10,6 +10,6 @@ I have contributed to [devb.io](https://github.com/devb-io), which made top 10 a
 
 If I'm not at the laptop, I'm on a cycle 🚴
 
-Read about my work [Medium](https://medium.com/@aswinpradeepc).
+Read about my work on [Medium](https://medium.com/@aswinpradeepc).
 
 `aswinpradeepc` everywhere · aswinpradeepc@gmail.com · [LinkedIn](https://linkedin.com/in/aswinpradeepc) · [devb.io](https://devb.io/aswinpradeepc)
