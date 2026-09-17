@@ -12,4 +12,4 @@ If I'm not at the laptop, I'm on a cycle 🚴
 
 Read about my work on [Medium](https://medium.com/@aswinpradeepc).
 
-`aswinpradeepc` everywhere · aswinpradeepc@gmail.com · [LinkedIn](https://linkedin.com/in/aswinpradeepc) · [devb.io](https://devb.io/aswinpradeepc)
+`aswinpradeepc` everywhere · hi@aswinpradeepc.com · [LinkedIn](https://linkedin.com/in/aswinpradeepc) · [devb.io](https://devb.io/aswinpradeepc)
